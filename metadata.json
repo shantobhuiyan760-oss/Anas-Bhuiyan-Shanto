@@ -1,0 +1,6 @@
+{
+  "name": "TransKey",
+  "description": "An intelligent translation keyboard and AI-powered language assistant with interactive custom entry, persistent translation history, and premium keyboard themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
